@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="BeautyJ">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$USER_HOME$/Documents/Programacion II/beautyJ-1_1/doc/api" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/Programacion II/beautyJ-1_1/examples/src" />
+      <root url="file://$USER_HOME$/Documents/Programacion II/beautyJ-1_1/examples/src_beautified" />
+      <root url="file://$USER_HOME$/Documents/Programacion II/beautyJ-1_1/src/amoda" />
+      <root url="file://$USER_HOME$/Documents/Programacion II/beautyJ-1_1/src/beautyj" />
+      <root url="file://$USER_HOME$/Documents/Programacion II/beautyJ-1_1/src/util" />
+    </SOURCES>
+  </library>
+</component>
