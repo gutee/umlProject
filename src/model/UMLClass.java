@@ -16,6 +16,7 @@ public class UMLClass {
     List<UMLMethod> umlMethods;
     List<Modifier> modifier;
     Visibility visibility;
+    String elGutee;
 
     UMLClass(UMLClassTitle umlClassTitle, List<Modifier> modifier, Visibility visibility) {
         this.umlClassTitle = umlClassTitle;
