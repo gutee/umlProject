@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="umlProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/umlProject_jar</output-path>
+    <root id="archive" name="umlProject.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="umlProject" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Programacion II/junit4.10/junit-4.10-src.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Programacion II/junit4.10/junit-4.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Programacion II/junit4.10/junit-dep-4.10.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Programacion II/beautyJ-1_1/lib/beautyj.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Programacion II/beautyJ-1_1/lib/beautyj_debug.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Programacion II/beautyJ-1_1/lib/xercesImpl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Programacion II/beautyJ-1_1/lib/xmlParserAPIs.jar" path-in-jar="/" />
+      <element id="archive" name="UMLGraphingProject.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

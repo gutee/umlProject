@@ -1,0 +1,9 @@
+prog2.tp5HorseRace.Dice;
+
+
+public class .Dic { 
+	public int SIDES;
+	private int sides;
+	private int value;
+
+}
